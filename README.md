@@ -1,6 +1,4 @@
 # DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values (ICMLW-AIW 2025)
-[![arXiv](https://img.shields.io/badge/arXiv-2506.05035-b31b1b.svg)](https://arxiv.org/abs/2506.05035)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15671176.svg)](https://doi.org/10.5281/zenodo.15671176)
 
 **DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values**<br>
 Changhun Kim*, Yechan Mun*, Sangchul Hahn, Eunho Yang (*: equal contribution)<br>
